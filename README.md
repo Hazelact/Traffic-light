@@ -1,2 +1,2 @@
-# Traffic-light
+# if-elif-else
 Traffic light project
